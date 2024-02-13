@@ -7,7 +7,8 @@ The data was pulled from the Washington State Department of Licensing last updat
 - How Does Electric Range Vary by Electric Vehicle Type? Are All Electric Vehicles With High Electric Range All BEVs? Is It Irrespective of the Manufacturer?
 
 ## Highlight
-![newplot (9)](https://github.com/CliffordAniakor/WashingtonDOL2024/assets/85615800/74155257-ac09-4c46-aaef-7a30be89d999)
+![newplot (12)](https://github.com/CliffordAniakor/WashingtonDOL2024/assets/85615800/85c5cd21-649f-4d97-8696-2a7e2b8d4506)
+
 
 ## Some Conclusions
 - Electric vehicles ranges vary by the manufacturer irrespective of the metric being used (median or mean).
